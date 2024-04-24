@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+
+# NetBeans
+nb-configuration.xml
+/.idea/
+/.idea/
